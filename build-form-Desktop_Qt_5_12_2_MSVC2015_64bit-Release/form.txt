@@ -1,0 +1,31 @@
+gender:female
+birthdate:2000.1.1
+interest:art
+gender:female
+birthdate:2000.1.1
+interest:art
+gender:male
+birthdate:2000.1.1
+interest:sport
+             art
+gender:female
+birthdate:2000.1.1
+interest:read
+gender:male
+birthdate:2000.1.1
+interest:read
+birthdate:2000.1.1
+interest:read
+ 
+gender:female
+birthdate:2000.1.1
+interest:read
+             sleep
+ 
+gender:male
+birthdate:1996.1.1
+interest:art
+ 
+gender:female
+birthdate:2000.1.1
+ 
